@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abubakar Dar
 - 👀 I’m interested in Gaming, Anime and Movies
-- 🌱 I’m currently learning Web Development in C#.Net Framework
+- 🌱 I’m a Full Stack Web Developer in ASP.NET(C#) and MERN Stack. Currently Learning BlockChain.
 - 📫 You can contact me on abubakardar608@gmail.com
 
 <!---
